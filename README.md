@@ -15,13 +15,13 @@ Entry for the make.fun bounty
 
 > Ask, and the room rearranges itself:
 > a chair pulled out, a door left ajar.
-> I thought power was holding the key.
-> It is handing it over —
+> I thought power was the lock I kept.
+> It is the door I leave unlocked —
 > and still being the one who knocks.
 
-171 characters, about agency: the power to ask and to be given,
-and the power that passes between two hands when one acts for
-the other.
+181 characters, about agency: the power to ask and to be given,
+and the power that passes when one leaves the door
+unlocked and still remains the one who knocks.
 
 ## How it runs
 
@@ -39,7 +39,7 @@ byte-identical output.
 ## Files
 
 - `main.py` — entrypoint, stdlib only
-- `entry.txt` — the poem, 171 characters
+- `entry.txt` — the poem, 181 characters
 - `LICENSE` — MIT
 
 ## License
